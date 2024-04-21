@@ -175,7 +175,7 @@
                 "uniques": [
                    "[+1 Happiness] per [15] population [in all cities]",
 "[+1 Happiness] [in all cities]",
-"[-10]% Unhappiness from [Population] [in all cities]","Gain [15] [Culture]<upon discovering [All]>"
+"[-10]% Unhappiness from [Population] [in all cities]", "[-6]% Culture cost of adopting new Policies"
                 ],
                 "requires": ["Grandiose","Democracy"],
                 "row": 4,
@@ -185,7 +185,7 @@
                 "name": "Fraternity",
                 "uniques": [
                     "[+3 Science] from each Trade Route",
-                    "[+3 Food] [in all cities]","Gain [15] [Culture]<upon discovering [All]>"
+                    "[+3 Food] [in all cities]", "[-6]% Culture cost of adopting new Policies"
                 ],
                 "requires": ["Democracy","Expertise"],
                 "row": 4,
