@@ -316,7 +316,7 @@
             },
             {
                 "name": "Free Trade",
-                "uniques": ["[-3.75]% Unhappiness from [Population] [in all cities]",
+                "uniques": ["[-4]% Unhappiness from [Population] [in all cities]",
 "[Gold] cost of purchasing items in cities [-5]%", "[Great Merchant] is earned [+50]% faster"
                 ],
                 "row": 7,
