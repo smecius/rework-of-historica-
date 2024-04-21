@@ -55,7 +55,7 @@
     {
         "name": "Goddess of Love",
         "type": "Pantheon",
-        "uniques": ["[+8 Faith] <when between [15] and [100] Happiness>"]
+        "uniques": ["[+8 Faith] <when above [3] Happiness>"]
     },
     {
         "name": "Goddess of Protection",
