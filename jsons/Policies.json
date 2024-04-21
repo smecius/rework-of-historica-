@@ -299,7 +299,7 @@
                 "name": "Divine Right",
                 "uniques": ["[+1 Food] [in all cities]",
                     "[+25]% of excess happiness converted to [Culture]",
-                    "[-3.75]% Unhappiness from [Population] [in all cities]"
+                    "[-4]% Unhappiness from [Population] [in all cities]"
                 ],
                 "requires": ["Nobility","Serfdom"],
                 "row": 6,
