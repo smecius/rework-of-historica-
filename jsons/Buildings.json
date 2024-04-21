@@ -968,7 +968,7 @@
 		"name": "Colonial Office",
 		"hurryCostModifier": 15,
 		"requiredBuilding": "Customs House",
-		"uniques": ["Free [Melee] appears", "[+4 Gold] from [Plantation] [in this city]", "[+20]% Unhappiness from [Population] [in this city]"],
+		"uniques": ["Free [Melee] appears", "[+4 Gold] from [Plantation] tiles [in this city]", "[+20]% Unhappiness from [Population] [in this city]"],
 		"requiredTech": "Colonialism"
 	},
 	{
