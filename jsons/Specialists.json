@@ -1,0 +1,51 @@
+[
+	{
+		"name":"Scientist",
+		"science":2,
+		"greatPersonPoints": {"Great Scientist":3},
+		"color": [0,0,255]
+	},
+	{
+		"name":"Merchant",
+		"gold":3,
+		"greatPersonPoints": {"Great Merchant":3},
+		"color": [255,215,0]
+	},
+	{
+		"name":"Artist",
+		"culture":2,
+		"greatPersonPoints": {"Great Artist":3},
+		"color": [160,32,240]
+	},
+	{
+		"name":"Writer",
+		"culture":2,
+		"greatPersonPoints": {"Great Writer":3},
+		"color": [160,32,240]
+	},
+	{
+		"name":"Musician",
+		"culture":2,
+		"greatPersonPoints": {"Great Musician":3},
+		"color": [160,32,240]
+	},
+	{
+		"name":"Civil Servant",
+		"culture":1,
+		"gold":1,
+		"greatPersonPoints": {"Grand Ambassador":3},
+		"color": [19, 117, 156]
+	},
+	{
+		"name":"Priest",
+		"faith":2,
+		"greatPersonPoints": {"Great Prophet":3},
+		"color": [255,255,255]
+	},
+	{
+		"name":"Engineer",
+		"production":2,
+		"greatPersonPoints": {"Great Engineer":3},
+		"color": [139,69,19]
+	}
+]

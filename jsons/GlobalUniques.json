@@ -1,0 +1,29 @@
+{
+    "name": "Global uniques", 
+    "uniques": [
+        "[-75]% growth [in all cities] <when between [-10] and [0] Happiness>",
+        "Nullifies Growth [in all cities] <when below [-10] Happiness>",
+        "[-50]% [Production] [in all cities] <when below [-10] Happiness>",
+        "[-20]% Strength <for [All] units> <when below [0] Happiness>",
+"[-46]% Strength <for [All] units> <when below [-10] Happiness>",
+        "Rebel units may spawn <when below [0] Happiness>",
+    "Each city founded increases culture cost of policies [-100]% less than normal",
+"[-66]% Culture cost of adopting new Policies"
+"Nullifies [Production] [in all cities]<when below [-10] Happiness>",
+"Nullifies [Food] [in all cities]<when below [-10] Happiness>",
+"Nullifies [Gold] [in all cities]<when below [-10] Happiness>"
+        // TODO: Implement the uniques below
+        // "[+20]% [Culture] [in all cities] <during a golden age>",
+        // "[+20]% [Production] [in all cities] <during a golden age>",
+    
+        // "[+10]% growth [in all cities] <during We Love The King Day>",
+    
+        // "Nullifies All Yield <while is in resistance>",
+        
+        // "[-25]% [Science] [in pupetted cities]" -- Imo cityFilters should ideally become conditionals anyway
+        // "[-25]% [Culture] [in pupetted cities]"
+        
+        // "[+20]% [Production] [in cities connected via railroad]"
+        // something something unit supply
+    ]
+}
