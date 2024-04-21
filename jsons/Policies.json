@@ -81,6 +81,7 @@
                 "uniques": [
                     "[-25]% construction time for [All] improvements",
                     "Free [Worker] appears",
+                     "[-6]% Culture cost of adopting new Policies",
                     "[+3 Gold] [in all cities]","Gain [15] [Culture]<upon discovering [All]>"
                 ],
                 "requires": ["Cultural Superioty"],
