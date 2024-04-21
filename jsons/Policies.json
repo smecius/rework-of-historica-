@@ -139,7 +139,7 @@
             {
                 "name": "Expertise",
                 "uniques": [     
- "[+15]% Production when constructing [All] buildings [in all cities]", "Gain [15] [Culture]<upon discovering [All]>"
+ "[+15]% Production when constructing [All] buildings [in all cities]", " [-6]% Culture cost of adopting new Policies"
                 ],
                 "requires": ["Liberty","Tributaries"],
                 "row": 3,
