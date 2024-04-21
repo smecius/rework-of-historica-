@@ -36,7 +36,8 @@
                 "name": "Organisation",
                 "uniques": ["[+1] Movement <for [Civilian] units>",
                     "[+3 Production] [in all cities]",
-                   "[+25]% Production when constructing [Civilian] units [in all cities]"
+                   "[+25]% Production when constructing [Civilian] units [in all cities]",
+                    "[-6]% Culture cost of adopting new Policies"//discount to make culture tree faster
                 ],
                 "row": 1,
                 "column": 9
