@@ -387,7 +387,7 @@
     {
         "name": "Imperialism",
         "uniques": ["[+1] Movement <for [{Military} {Water}] units>", "[+1] Movement <for [Embarked] units>",
-"[+1] Movement <for [Great Genral] units>", "[+1] Sight <for [Naval Melee] units>", "[+1] Sight <for [Melee] units>", 
+"[+1] Movement <for [Great Genral] units>", "[+1] Sight <for [{Military} {Water}] units>", "[+1] Sight <for [Melee] units>", 
 "[+10]% Production when constructing [Military] units [in all cities]", "[-10]% Gold cost of upgrading"],
                 "requires": ["Mercantilism","Colonialism"],
                 "row": 8,
