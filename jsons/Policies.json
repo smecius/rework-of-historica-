@@ -309,8 +309,8 @@
             },
             {
                 "name": "Heritage",
-                "uniques": ["[+25]% [Culture] from every [Land]",
-                    "[+25]% [Culture] from every [World Wonder]", "[+1 Science] [in all cities]"
+                "uniques": [
+                    "[+4]% [Culture] from every [World Wonder]", "[+1 Science] [in all cities]"
                 ],
                 "requires": ["Nobility","Monasticism"],
                 "row": 6,
