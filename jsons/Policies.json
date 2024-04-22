@@ -131,7 +131,7 @@
         "name": "Democracy",
                 "requires": ["Liberty","Crown Guard"],
  "uniques": [     
-  "[-6]% Culture cost of adopting new Policies","Gain [20] [Science]<upon adopting [All]>"
+  "[-6]% Culture cost of adopting new Policies", "[+10 Happines] [in capital]<when not at war>"
                 ],
                 "row": 3,
                 "column": 5
