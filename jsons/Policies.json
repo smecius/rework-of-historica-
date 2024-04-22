@@ -282,6 +282,7 @@
           {
                 "name": "Consulates",
                 "uniques": ["[+1 Gold] [in all cities]",
+                    "Resting point for Influence with City-States is increased by [20]"
                 ],
                 "requires": ["Statecraft"],
                 "row": 6,
