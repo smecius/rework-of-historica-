@@ -1,4 +1,5 @@
-rework
+# Rework
+not the original mod - continued development of it
 
 # Historica
  Total Conversion for Unciv focued around extended Tech Tree and Policy Trees
