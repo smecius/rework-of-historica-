@@ -498,7 +498,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["[-25]% tile improvement construction time","[2] free [Worker] units appear"],
+		"uniques": ["[-25]% construction time for [All] improvements","[2] free [Worker] units appear"],
 		"requiredTech": "Masonry",
 		"quote": "'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.' - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge"
 	},
@@ -721,7 +721,7 @@
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
 		"uniques": ["Gain a free [Mosque] [in this city]", "Hidden when religion is disabled",
-			"[Missionary] units built [in this city] can [Spread Religion] [1] extra times", "[Great Prophet] units built [in this city] can [Spread Religion] [1] extra times"],
+			"All newly-trained [Missionary] units [in this city] receive the [Devout] promotion","All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion"],
 		"requiredTech": "Theology",
 		"quote": "'With the magnificence of eternity before us, let time, with all its fluctuations, dwindle into its own littleness.' - Thomas Chalmers"
 	},
@@ -968,7 +968,7 @@
 		"name": "Colonial Office",
 		"hurryCostModifier": 15,
 		"requiredBuilding": "Customs House",
-		"uniques": ["Free [Melee] appears", "[+4 Gold] from [Plantation] [in this city]", "[+20]% Unhappiness from [Population] [in this city]"],
+		"uniques": ["Free [Melee] appears", "[+4 Gold] from [Plantation] tiles [in this city]", "[+20]% Unhappiness from [Population] [in this city]"],
 		"requiredTech": "Colonialism"
 	},
 	{
@@ -1455,7 +1455,7 @@
 		"name": "Utopia Project",
 		"cost": 1500,
 		"isNationalWonder": true,
-		"uniques": ["Hidden until [5] social policy branches have been completed", "Triggers a global alert upon build start",
+		"uniques": ["Hidden until [1] social policy branches have been completed", "Triggers a global alert upon build start",
 			"Triggers a Cultural Victory upon completion", "Hidden when [Cultural] Victory is disabled", "Cannot be hurried"]
 	},
 
