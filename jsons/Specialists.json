@@ -51,7 +51,7 @@
 	{
 
 		"name":"Conscription",
-		"Provides [1] [Manpower]"
+		//"Provides [1] [Manpower]"
 		"color": [255,235,235]
 	},
 	
