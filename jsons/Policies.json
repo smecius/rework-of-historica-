@@ -90,7 +90,7 @@
             },
             {
                 "name": "Tributaries",
-                "uniques": ["[+1 Production,+2 Gold] [in all cities]"],
+                "uniques": ["[+2 Gold, +1 Production] [in all cities]"],
                 "requires": ["Cultural Superioty","Organisation"],
                 "row": 2,
                 "column": 7
@@ -105,10 +105,8 @@
             {
                 "name": "Honor",
                 "uniques": [
-"[+10]% Strength"
-"Free [Melee] appears <in cities with at least [10] [Population]>"
-"Free [Melee] appears <in cities with at least [20] [Population]>"
-"Free [Melee] appears <in cities with at least [30] [Population]>"
+"[+10]% Strength",
+"[+20]% XP gained from combat"
                 ],
                 "requires": ["Ceremony"],
                 "row": 2,
@@ -131,7 +129,8 @@
         "name": "Democracy",
                 "requires": ["Liberty","Crown Guard"],
  "uniques": [     
-  "[-6]% Culture cost of adopting new Policies", "[+10 Happines] [in capital]<when not at war>",
+  "[-6]% Culture cost of adopting new Policies", 
+   "[ +10 Happiness] [in capital]"
                 ],
                 "row": 3,
                 "column": 5
