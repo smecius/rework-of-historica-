@@ -105,10 +105,8 @@
             {
                 "name": "Honor",
                 "uniques": [
-"[+10]% Strength"
-"Free [Melee] appears <in cities with at least [10] [Population]>"
-"Free [Melee] appears <in cities with at least [20] [Population]>"
-"Free [Melee] appears <in cities with at least [30] [Population]>"
+"[+10]% Strength",
+"[+20]% XP gained from combat"
                 ],
                 "requires": ["Ceremony"],
                 "row": 2,
