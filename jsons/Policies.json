@@ -130,7 +130,7 @@
                 "requires": ["Liberty","Crown Guard"],
  "uniques": [     
   "[-6]% Culture cost of adopting new Policies", 
-   "[ +10 Happiness] [in capital]"
+   "[ +10 Happiness]"
                 ],
                 "row": 3,
                 "column": 5
